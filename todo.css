@@ -1,0 +1,8 @@
+.single-todo {
+    display:block;
+    padding:6px 10px;
+}
+
+.marked {
+    font-style: italic;
+}
